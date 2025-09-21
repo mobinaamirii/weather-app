@@ -13,7 +13,7 @@
 <ul>
     <li><strong>HTML</strong> – ساختار صفحات وب</li>
     <li><strong>CSS</strong> – استایل‌دهی و طراحی</li>
-    <li><strong>JavaScript (ES6+)</strong> – منطق فرانت‌اند</li>
+    <li><strong>JavaScript</strong> – منطق فرانت‌اند</li>
     <li><strong>Fetch API </strong> – دریافت اطلاعات هواشناسی از API</li>
 </ul>
 
